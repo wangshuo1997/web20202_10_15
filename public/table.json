@@ -1,0 +1,35 @@
+{
+    "list": [
+        {
+            "work_id": "111131",
+            "name": "张七",
+            "permission": 1,
+            "password": "gdgfhfd",
+            "date": "2019-11-1"
+        },
+        {
+            "work_id": "543532",
+            "name": "李四",
+            "permission": 1,
+            "password": "ksdrfd",
+            "date": "2019-10-11"
+        },
+
+        {
+            "work_id": "7456453",
+            "name": "王五",
+            "permission": 2,
+            "password": "4tter",
+            "date": "2019-11-11"
+        },
+        {
+            "work_id": "56564564",
+            "name": "赵六",
+            "permission": 2,
+            "password": "ktyty",
+            "date": "2019-10-20"
+        }
+
+    ],
+    "pageTotal": 4
+}

@@ -1,0 +1,47 @@
+{
+    "alarm_list": [
+        {
+            "date": "2019-1-1",
+            "message": "在一号仓库C点发生报警",
+            "location": "一号仓库",
+            "state": "待处理"
+        },
+        {
+            "date": "2019-12-1",
+            "message": "在三号仓库A点发生报警",
+            "location": "三号仓库",
+            "state": "待处理"
+        },
+        {
+            "date": "2019-11-1",
+            "message": "在一工厂库D点发生报警",
+            "location": "一号工厂",
+            "state": "待处理"
+        },
+        {
+            "date": "2019-11-2",
+            "message": "在二号仓库B点发生报警",
+            "location": "二号仓库",
+            "state": "处理中"
+        },
+        {
+            "date": "2019-11-3",
+            "message": "在一号仓库工厂B点发生报警",
+            "location": "一号工厂",
+            "state": "已处理"
+        },
+        {
+            "date": "2019-11-4",
+            "message": "在一号仓库A点发生报警",
+            "location": "一号仓库",
+            "state": "已处理"
+        },
+        {
+            "date": "2019-11-5",
+            "message": "在一号仓库A点发生报警",
+            "location": "一号仓库",
+            "state": "已处理"
+        }
+    ],
+    "pageTotal": 7
+}
